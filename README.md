@@ -1,1 +1,1 @@
-# AtlasPowerBI
+# HR Analytics Dashboard
