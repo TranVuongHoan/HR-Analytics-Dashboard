@@ -90,3 +90,8 @@
 - **Q2 2022**: 3.8 average score. Suggested reasons include increased workload.
 - **Q3 2022**: 3.6 average score. Suggested reasons include lack of support.
 - **Q4 2022**: 3.4 average score. Suggested reasons include burnout and stress.
+
+![Data](image/hr_dashboard.png)
+![Data](image/hr_dashboard 2.png)
+![Data](image/hr_dashboard 3.png)
+![Data](image/hr_dashboard 4.png)
