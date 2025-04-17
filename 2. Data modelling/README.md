@@ -66,4 +66,4 @@ Each dimension table has a **many-to-one relationship** with the fact table, mea
 
 ---
 
-This star schema structure ensures efficient data retrieval and analysis, enabling deeper insights into employee performance, satisfaction, and other HR metrics.
+![Data](image/hr_model.png)
