@@ -95,9 +95,9 @@ The Employee table is a central component of the dataset, containing detailed in
 5. **Save the Updated Data**:  
    - The cleaned and transformed Employee table was saved for further analysis.
 
-![Data](image/data_coffee_sales.png)
-![Data](image/data_coffee_sales.png)
-![Data](image/data_coffee_sales.png)
-![Data](image/data_coffee_sales.png)
-![Data](image/data_coffee_sales.png)
+![Data](image/education.png)
+![Data](image/employee.png)
+![Data](image/performance.png)
+![Data](image/rating.png)
+![Data](image/satisfaction.png)
 
