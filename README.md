@@ -81,6 +81,9 @@
 | Non-binary  | 3%          | 22%            | 2.7 years          |
 | Undisclosed | 2%          | 15%            | 2.3 years          |
 
+![Data](File/hr_dashboard.png)
+![Data](File/hr_dashboard_2.png)
+
 ### Performance Trends
 
 #### Quarterly Satisfaction Scores
@@ -135,3 +138,6 @@
 | Attrition Risk       | Weekly      | Email + Dashboard   |
 | Satisfaction Trends  | Monthly     | PDF + PPT           |
 | Diversity Metrics    | Quarterly   | Board Presentation  |
+
+![Data](File/hr_dashboard_3.png)
+![Data](File/hr_dashboard_4.png)
