@@ -160,11 +160,7 @@ Each dimension table has a **many-to-one relationship** with the fact table, mea
 - **`SatisfactionLevel`**: Description of the satisfaction level (e.g., *Very Dissatisfied*, *Neutral*, *Very Satisfied*).
 - **`Collapse`**: Additional details.
 
-![Data](File/satisfaction.png)
-![Data](File/satisfaction.png)
-![Data](File/satisfaction.png)
-![Data](File/satisfaction.png)
-
+![Data](File/hr_model.png)
 
 # Data Analysis
 
@@ -210,6 +206,9 @@ Each dimension table has a **many-to-one relationship** with the fact table, mea
 - **Low Overtime**: 12% attrition rate. Suggested reasons include job dissatisfaction. Recommended conducting employee surveys to identify issues.
 
 ---
+
+![Data](File/hr_dashboard.png)
+![Data](File/hr_dashboard_2.png)
 
 ## Demographic Analysis
 
@@ -259,7 +258,5 @@ Each dimension table has a **many-to-one relationship** with the fact table, mea
 - **Q3 2022**: 3.6 average score. Suggested reasons include lack of support.
 - **Q4 2022**: 3.4 average score. Suggested reasons include burnout and stress.
 
-![Data](File/hr_dashboard.png)
-![Data](File/hr_dashboard_2.png)
 ![Data](File/hr_dashboard_3.png)
 ![Data](File/hr_dashboard_4.png)
