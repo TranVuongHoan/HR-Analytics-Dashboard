@@ -86,7 +86,14 @@ The Employee table is a central component of the dataset, containing detailed in
 
 5. **Save the Updated Data**:  
    - The cleaned and transformed Employee table was saved for further analysis.
-  
+
+![Data](File/satisfaction.png)
+![Data](File/employee.png)
+![Data](File/education.png)
+![Data](File/rating.png)
+![Data](File/performance.png)
+
+
 # Data Modelling
 
 ## Star Schema Structure
@@ -152,6 +159,12 @@ Each dimension table has a **many-to-one relationship** with the fact table, mea
 - **`SatisfactionID`**: The primary key (PK) that uniquely identifies each satisfaction level.
 - **`SatisfactionLevel`**: Description of the satisfaction level (e.g., *Very Dissatisfied*, *Neutral*, *Very Satisfied*).
 - **`Collapse`**: Additional details.
+
+![Data](File/satisfaction.png)
+![Data](File/satisfaction.png)
+![Data](File/satisfaction.png)
+![Data](File/satisfaction.png)
+
 
 # Data Analysis
 
