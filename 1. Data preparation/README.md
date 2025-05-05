@@ -63,17 +63,7 @@ To prepare the data for efficient analysis, I took the following transformation 
 
 7. **Save the Updated Data**:  
    - Finally, I saved the updated data in the respective tables, ensuring they were properly prepared and optimized for the next phases of the project.
-
----
-
-## Data Transformation Tools and Outputs
-
-I automated the data transformation process using a Python script, which is available in the following Jupyter Notebook:  
-[`employee_data_preparation.ipynb`](employee_data_preparation.ipynb)
-
-The transformed data files resulting from this process can be found in the following directory:  
-`modified_data_files`
-
+   
 ---
 
 ## Employee Table: Data Preparation
