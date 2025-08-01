@@ -1,0 +1,6 @@
+EducationLevel,EmployeeCount,AvgSalary,AvgPerformance,AvgJobSatisfaction,AttritionCount,AttritionRate
+Bachelors ,2706,115837.5,3.74,3.44,949,35.07
+Doctorate,218,159004.12,3.73,3.3,48,22.02
+High School ,1380,103430.59,3.72,3.46,422,30.58
+Masters ,1738,112655.58,3.71,3.44,545,31.36
+No Formal Qualifications,857,91527.55,3.75,3.38,297,34.66

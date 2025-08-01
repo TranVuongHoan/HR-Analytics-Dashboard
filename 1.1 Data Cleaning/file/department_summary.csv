@@ -1,0 +1,4 @@
+Department,EmployeeCount,AvgSalary,MinSalary,MaxSalary,AvgAge,AvgJobSatisfaction,AvgPerformance,AttritionCount,AvgWorkLifeBalance,AttritionRate
+Human Resources,313,107629.56,20583,509940,31.24,3.44,3.72,115,3.38,36.74
+Sales,2211,120568.31,20650,513262,30.99,3.42,3.71,879,3.41,39.76
+Technology,4375,106245.33,20387,547204,30.37,3.43,3.74,1267,3.42,28.96

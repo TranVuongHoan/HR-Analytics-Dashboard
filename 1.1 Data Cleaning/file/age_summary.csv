@@ -1,0 +1,5 @@
+AgeGroup,EmployeeCount,AvgSalary,AvgPerformance,AvgJobSatisfaction,AttritionCount,AttritionRate
+Under 30,4246,78104.84,3.73,3.42,1947,45.85
+30-40,1482,161279.46,3.75,3.48,181,12.21
+40-50,1170,165987.96,3.72,3.42,133,11.37
+Over 50,1,232658.0,2.5,3.0,0,0.0
