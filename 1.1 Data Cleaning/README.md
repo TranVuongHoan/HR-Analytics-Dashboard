@@ -72,6 +72,8 @@ python hr_advanced_analytics.py
 - Risk scoring for employee retention
 - Advanced business insights
 
+[Click here to open the Python file](file/hr_advanced_analytics.py)
+
 **Outputs:**
 - `attrition_predictions.csv` - Individual attrition predictions
 - `employee_clusters.csv` - Employee cluster assignments
