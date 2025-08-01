@@ -51,6 +51,8 @@ python hr_advanced_analytics.py
   - Performance categories
   - Attrition risk scores
 
+[Click here to open the Python file](file/hr_analytics_precrocessing.py)
+
 **Outputs:**
 - `hr_analytics_processed.csv` - Main dataset for Power BI
 - `employee_cleaned.csv` - Cleaned employee data
