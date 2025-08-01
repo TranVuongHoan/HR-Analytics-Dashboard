@@ -178,3 +178,7 @@ If you encounter issues:
 5. **Dashboard Creation**: Build visualizations using the processed data
 
 This pipeline ensures your HR data is clean, enriched, and ready for powerful analytics in Power BI! 
+![Data](image/employee_clusters.png)
+![Data](image/feature_importance.png)
+![Data](image/hr_analytics_overview.png)
+
