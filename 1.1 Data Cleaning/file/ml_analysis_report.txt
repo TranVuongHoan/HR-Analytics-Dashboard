@@ -1,0 +1,22 @@
+HR Analytics Machine Learning Report
+========================================
+
+Model Performance:
+Random Forest:
+  Accuracy: 0.972
+  AUC Score: 0.995
+
+Gradient Boosting:
+  Accuracy: 0.932
+  AUC Score: 0.976
+
+Logistic Regression:
+  Accuracy: 0.868
+  AUC Score: 0.929
+
+Files Created:
+- attrition_predictions.csv (Individual predictions)
+- employee_clusters.csv (Cluster assignments)
+- high_risk_employees.csv (High-risk employee list)
+- feature_importance.png (Feature importance plot)
+- employee_clusters.png (Cluster visualization)
